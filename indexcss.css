@@ -1,0 +1,38 @@
+
+h1 a, a:{
+    color:black;
+}
+
+h2:{
+	font-size: 10px;
+	align="center"
+}
+
+h3:{
+	font-size: 6px;
+	align="center"
+}
+h4:{
+  align="center"
+}
+
+nav{display:inline-block;
+    height:30px;
+    width: 100%;
+    text-align: center ;
+    font-family: tahoma;
+    font-size: 18px;
+    font-weight: bold  
+}
+
+body{background-color:aliceblue;
+    /*aspro*/
+/* background-image: url(http://www.visualcandi.com/wp-content/uploads/2013/05/white.png);*/ 
+/*Cream*/
+/*background-image: url(https://www.sewcarterton.co.nz/images/products/large_9580_cream_colour_patch.JPG);*/
+
+background-image: url(http://wallpapercave.com/wp/I5sQdc0.jpg);
+
+}
+
+
